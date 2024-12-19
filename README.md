@@ -26,23 +26,23 @@
 
 
 ### 1. Clone the Repository
-	```bash
-	git clone https://github.com/your-username/LoginAPIDemo.git
-	cd LoginAPIDemo
-
+	   ```bash
+	   git clone https://github.com/ChethanKacham/Login-API-Demo.git
+   	   cd Login-API-Demo
+ 
 ### 2. Start the FrontEnd
-	```bash
-	cd LoginAPIReact
-	npm install
-	npm start
+	   ```bash
+	   cd LoginAPIReact
+	   npm install
+	   npm start
 
 The React application will start on http://localhost:3000.
 
 ### 3. Start the BackEnd
-	```bash
-	cd LoginAPINode
-	npm install
-	npm start
+	   ```bash
+	   cd LoginAPINode
+	   npm install
+	   npm start
 
 The NodeJS server will run on http://localhost:5000.
 
