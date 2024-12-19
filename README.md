@@ -24,8 +24,6 @@
 
 ## 🛠️ Setup and Installation
 
-### 1. Clone the Repository
-
 
 ### 1. Clone the Repository
 	```bash
